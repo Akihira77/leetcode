@@ -10,3 +10,5 @@ test21:
 	@go test  ./src/21-merge-two-sorted-lists_test.go -v
 test26:
 	@go test  ./src/26-remove-duplicates-from-sorted-array_test.go -v
+test27:
+	@go test  ./src/27-remove-element_test.go -v
