@@ -18,3 +18,5 @@ test35:
 	@go test  ./src/35-search-insert-position_test.go -v
 test58:
 	@go test  ./src/58-length-the-last-word_test.go -v
+test66:
+	@go test  ./src/66-plus-one_test.go -v
