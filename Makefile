@@ -12,3 +12,6 @@ test26:
 	@go test  ./src/26-remove-duplicates-from-sorted-array_test.go -v
 test27:
 	@go test  ./src/27-remove-element_test.go -v
+test28:
+	@go test  ./src/28-find-index-of-the-first-occurrence-in-a-string_test.go -v
+
