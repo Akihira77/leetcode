@@ -22,3 +22,5 @@ test66:
 	@go test  ./src/66-plus-one_test.go -v
 test67:
 	@go test  ./src/67-add-binary_test.go -v
+test69:
+	@go test  ./src/69-sqrtx_test.go -v
