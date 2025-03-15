@@ -20,3 +20,5 @@ test58:
 	@go test  ./src/58-length-the-last-word_test.go -v
 test66:
 	@go test  ./src/66-plus-one_test.go -v
+test67:
+	@go test  ./src/67-add-binary_test.go -v
