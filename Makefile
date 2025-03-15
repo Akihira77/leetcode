@@ -16,3 +16,5 @@ test28:
 	@go test  ./src/28-find-index-of-the-first-occurrence-in-a-string_test.go -v
 test35:
 	@go test  ./src/35-search-insert-position_test.go -v
+test58:
+	@go test  ./src/58-length-the-last-word_test.go -v
