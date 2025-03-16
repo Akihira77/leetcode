@@ -24,3 +24,5 @@ test67:
 	@go test  ./src/67-add-binary_test.go -v
 test69:
 	@go test  ./src/69-sqrtx_test.go -v
+test83:
+	@go test  ./src/83-remove-duplicates-from-sorted-list_test.go -v
