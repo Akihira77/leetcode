@@ -1,3 +1,5 @@
+testall:
+	@go test ./... -v
 test1:
 	@go test ./src/1-two-sum_test.go -v
 test9:
@@ -26,3 +28,5 @@ test69:
 	@go test  ./src/69-sqrtx_test.go -v
 test83:
 	@go test  ./src/83-remove-duplicates-from-sorted-list_test.go -v
+test88:
+	@go test  ./src/88-merge-sorted-array_test.go -v
