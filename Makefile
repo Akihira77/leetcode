@@ -34,3 +34,5 @@ test118:
 	@go test  ./src/118-pascal-triangle_test.go -v
 test119:
 	@go test  ./src/119-pascal-triangle-II_test.go -v
+test121:
+	@go test  ./src/121-best-time-to-buy-sell-stock_test.go -v
