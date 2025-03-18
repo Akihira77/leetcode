@@ -38,3 +38,5 @@ test121:
 	@go test  ./src/121-best-time-to-buy-sell-stock_test.go -v
 test125:
 	@go test  ./src/125-valid-palindrom_test.go -v
+test136:
+	@go test  ./src/136-single-number_test.go -v
