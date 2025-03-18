@@ -30,3 +30,5 @@ test83:
 	@go test  ./src/83-remove-duplicates-from-sorted-list_test.go -v
 test88:
 	@go test  ./src/88-merge-sorted-array_test.go -v
+test118:
+	@go test  ./src/118-pascal-triangle_test.go -v
