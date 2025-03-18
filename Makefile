@@ -32,3 +32,5 @@ test88:
 	@go test  ./src/88-merge-sorted-array_test.go -v
 test118:
 	@go test  ./src/118-pascal-triangle_test.go -v
+test119:
+	@go test  ./src/119-pascal-triangle-II_test.go -v
