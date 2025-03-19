@@ -42,3 +42,5 @@ test136:
 	@go test  ./src/136-single-number_test.go -v
 test168:
 	@go test  ./src/168-excel-sheet-column-title_test.go -v
+test169:
+	@go test  ./src/169-majority-element_test.go -v
