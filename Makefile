@@ -40,3 +40,5 @@ test125:
 	@go test  ./src/125-valid-palindrom_test.go -v
 test136:
 	@go test  ./src/136-single-number_test.go -v
+test168:
+	@go test  ./src/168-excel-sheet-column-title_test.go -v
