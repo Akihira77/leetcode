@@ -46,3 +46,5 @@ test169:
 	@go test  ./src/169-majority-element_test.go -v
 test171:
 	@go test  ./src/171-excel-sheet-column-number_test.go -v
+test191:
+	@go test  ./src/191-number-of-1-bits_test.go -v
