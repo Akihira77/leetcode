@@ -50,3 +50,5 @@ test191:
 	@go test  ./src/191-number-of-1-bits_test.go -v
 test202:
 	@go test  ./src/202-happy-number_test.go -v
+test219:
+	@go test  ./src/219-contains-duplicate-ii_test.go -v
