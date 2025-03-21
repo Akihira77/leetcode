@@ -52,3 +52,5 @@ test202:
 	@go test  ./src/202-happy-number_test.go -v
 test219:
 	@go test  ./src/219-contains-duplicate-ii_test.go -v
+test217:
+	@go test  ./src/217-contains-duplicate_test.go -v
