@@ -58,3 +58,5 @@ test228:
 	@go test  ./src/228-summary-ranges_test.go -v
 test231:
 	@go test  ./src/231-power-of-two_test.go -v
+test242:
+	@go test  ./src/242-valid-anagram_test.go -v
