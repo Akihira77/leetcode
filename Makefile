@@ -60,3 +60,5 @@ test231:
 	@go test  ./src/231-power-of-two_test.go -v
 test242:
 	@go test  ./src/242-valid-anagram_test.go -v
+test258:
+	@go test  ./src/258-add-digits_test.go -v
