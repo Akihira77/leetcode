@@ -64,3 +64,5 @@ test258:
 	@go test  ./src/258-add-digits_test.go -v
 test263:
 	@go test  ./src/263-ugly-number_test.go -v
+test268:
+	@go test  ./src/268-missing-number_test.go -v
