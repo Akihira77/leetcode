@@ -68,3 +68,5 @@ test268:
 	@go test  ./src/268-missing-number_test.go -v
 test278:
 	@go test  ./src/278-first-bad-version_test.go -v
+test283:
+	@go test  ./src/283-move-zeros_test.go -v
