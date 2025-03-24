@@ -66,3 +66,5 @@ test263:
 	@go test  ./src/263-ugly-number_test.go -v
 test268:
 	@go test  ./src/268-missing-number_test.go -v
+test278:
+	@go test  ./src/278-first-bad-version_test.go -v
