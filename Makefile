@@ -70,3 +70,5 @@ test278:
 	@go test  ./src/278-first-bad-version_test.go -v
 test283:
 	@go test  ./src/283-move-zeros_test.go -v
+test290:
+	@go test  ./src/290-word-pattern_test.go -v
