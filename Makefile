@@ -72,3 +72,5 @@ test283:
 	@go test  ./src/283-move-zeros_test.go -v
 test290:
 	@go test  ./src/290-word-pattern_test.go -v
+test292:
+	@go test  ./src/292-nim-game_test.go -v
