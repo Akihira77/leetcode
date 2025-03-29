@@ -74,3 +74,5 @@ test290:
 	@go test  ./src/290-word-pattern_test.go -v
 test292:
 	@go test  ./src/292-nim-game_test.go -v
+test303:
+	@go test  ./src/303-range-sum-query_test.go -v
