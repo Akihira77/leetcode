@@ -78,3 +78,5 @@ test303:
 	@go test  ./src/303-range-sum-query_test.go -v
 test326:
 	@go test  ./src/326-power-of-three_test.go -v
+test338:
+	@go test  ./src/338-counting-bits_test.go -v
