@@ -80,3 +80,5 @@ test326:
 	@go test  ./src/326-power-of-three_test.go -v
 test338:
 	@go test  ./src/338-counting-bits_test.go -v
+test342:
+	@go test  ./src/342-power-of-four_test.go -v
