@@ -86,3 +86,5 @@ test344:
 	@go test  ./src/344-reverse-string_test.go -v
 test345:
 	@go test  ./src/345-reverse-vowels-of-a-string_test.go -v
+test349:
+	@go test  ./src/349-intersection-of-two-arrays_test.go -v
