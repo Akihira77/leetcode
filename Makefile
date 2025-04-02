@@ -90,3 +90,5 @@ test349:
 	@go test  ./src/349-intersection-of-two-arrays_test.go -v
 test350:
 	@go test  ./src/350-intersection-of-two-arrays-ii_test.go -v
+test367:
+	@go test  ./src/367-perfect-square_test.go -v
